@@ -1,0 +1,33 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: lightgrey;
+}
+
+header {
+    width: 100%;
+}
+
+.header {
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    background: linear-gradient(to right, black 30%, red 50%);
+    padding: 0px 0px 0px 0px;
+    cursor: pointer;
+}
+.logofc {
+    width: 80px;
+    position: absolute;
+    left: 30px;
+    top: 6px;
+    cursor: pointer;   
+}
+
